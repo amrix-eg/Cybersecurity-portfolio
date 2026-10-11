@@ -4,67 +4,60 @@
 
 <br>
 
-# 🛡️ Cybersecurity Portfolio
+<div align="center">
+
+# 🧑🏻‍💻 Cybersecurity Portfolio
 
 A modern **Cybersecurity Portfolio Website** with a terminal-inspired interface, futuristic visuals, and a security-focused design.
 
 **Skills • Projects • Tools • Certifications • Experience**
 
----
+</div>
 
-## ✨ Overview
+## 💚 Overview
 
 A modern **Cybersecurity Portfolio Website** designed to present a cybersecurity profile in a visually engaging and professional way.
 
 The website combines a **terminal-style interface**, Matrix-inspired visuals, interactive elements, smooth animations, and a dark security-focused aesthetic.
 
-### 🔎 What It Includes
+### 🧩 What It Includes
 
-| Section | Description |
-| --- | --- |
-| 👤 Profile | Personal & professional information |
-| 🛡️ Skills | Cybersecurity skills and technical knowledge |
-| 🧪 Projects | Security-related projects and work |
-| 🛠️ Tools | Tools and technologies |
-| 📊 Statistics | Skills and portfolio statistics |
-| 📜 Certifications | Certifications and achievements |
-| 📅 Experience | Experience and learning journey |
-| 🔐 Security | Ethical hacking & cybersecurity content |
-| 📫 Contact | Social and contact information |
+| Section           | Description                                  |
+| ----------------- | -------------------------------------------- |
+| 👤 Profile        | Personal & professional information          |
+| 🛡️ Skills        | Cybersecurity skills and technical knowledge |
+| 🧪 Projects       | Security-related projects and work           |
+| 🛠️ Tools         | Tools and technologies                       |
+| 📊 Statistics     | Skills and portfolio statistics              |
+| 📜 Certifications | Certifications and achievements              |
+| 📅 Experience     | Experience and learning journey              |
+| 🔐 Security       | Ethical hacking & cybersecurity content      |
+| 📫 Contact        | Social and contact information               |
 
 ---
 
-## 🎨 Design
+## 🖥️ Design
 
 The website is built around a dark **cybersecurity / terminal aesthetic** inspired by:
 
-- Linux Terminals
-- Command-Line Interfaces
-- Matrix-style visuals
-- Security Dashboards
-- Hacker-inspired UI
+* Linux Terminals
+* Command-Line Interfaces
+* Matrix-style visuals
+* Security Dashboards
+* Hacker-inspired UI
 
 The visual identity uses:
 
 **Dark backgrounds · Green accents · Monospace typography · Terminal elements · Glow effects · Smooth animations**
 
----
-
 ## ⚙️ Tech Stack
 
-`HTML5`
-
-`CSS3`
-
-`JavaScript`
-
-`Canvas API`
-
-`CSS Animations`
-
-`Responsive Design`
-
----
+* HTML5
+* CSS3
+* JavaScript
+* Canvas API
+* CSS Animations
+* Responsive Design
 
 ## 📱 Responsive Design
 
@@ -72,24 +65,21 @@ The portfolio is designed to adapt across different screen sizes:
 
 **Desktop · Laptop · Tablet · Mobile**
 
----
-
 ## 🖼️ Website Preview
 
-![Cybersecurity Portfolio Preview](preview-1.png)
+<p align="center">
+  <img src="preview-1.png" width="608%" alt="Cybersecurity Portfolio Preview 1">
+
+## 📡 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-22C55E?style=for-the-badge\&labelColor=0A0F0A)](https://cybersecurity-portfolio1.vercel.app/)
 
 ---
 
-## 🌐 Live Demo
-
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Website-22C55E?style=for-the-badge&labelColor=0A0F0A)](YOUR-WEBSITE-LINK)
-
----
-
-## 👨‍💻 Developer
+## </> Developer
 
 **Developed by [Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
-© 2026 **Raed Mosaed**
+© 2026  Cybersecurity Portfolio
