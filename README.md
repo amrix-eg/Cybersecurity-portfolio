@@ -88,7 +88,7 @@ The portfolio is designed to adapt across different screen sizes:
 
 ## 👨‍💻 Developer
 
-**Developed by Raed Mosaed**
+**Developed by [Amrix](https://github.com/amrix-eg) & [Raed Mosaed](https://github.com/raedmosaed0)**
 
 ---
 
