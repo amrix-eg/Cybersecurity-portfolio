@@ -76,7 +76,7 @@ The portfolio is designed to adapt across different screen sizes:
 
 ## 🖼️ Website Preview
 
-![Cybersecurity Portfolio Preview](preview.png)
+![Cybersecurity Portfolio Preview](preview-1.png)
 
 ---
 
