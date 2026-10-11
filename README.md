@@ -36,7 +36,7 @@ The website combines a **terminal-style interface**, Matrix-inspired visuals, in
 
 ---
 
-## 🖥️ Design
+## 🖥️ Desig
 
 The website is built around a dark **cybersecurity / terminal aesthetic** inspired by:
 
